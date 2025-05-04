@@ -1,5 +1,6 @@
 {
   "name": "DOGELANA",
   "symbol": "DGLA",
+  "description": "Example token from Solana Making a Token guide.",
   "uri": "https://raw.githubusercontent.com/ZDNCH/opos-asset/refs/heads/main/assets/CompressedCoil/image.png",
 }
